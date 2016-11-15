@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: muhsin
+  email: tartan@cmu.edu
+  
+
+two:
+  name: ahmed
+  email: awarfa@cmu.edu
+
